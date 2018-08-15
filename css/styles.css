@@ -14,6 +14,20 @@ body {
   /*background-color: #512DA8;*/
 }
 
+.postal {
+    /*background-image: url(../images/postal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 713px;*/
+    border: 15px solid transparent;
+    border-image: url(../images/bordesr3.png) 12% round;
+    height: 344px;
+    background: white;
+    padding: 19px;
+}
+
+
 
 header .navbar {
   background-color: rgba(2, 136, 209, 0.5);
